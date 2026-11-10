@@ -157,9 +157,18 @@ shopAnalytics/
 └── dashboard_shop_analytics.png
 
 O arquivo .env é utilizado localmente e não deve ser enviado ao GitHub.
-## Demonstração da aplicação
-## Dashboard de análise de dados
 
+## Demonstração da aplicação
+### Tela inicial
+![Tela inicial](Captura%20de%20tela%202026-11-10%20152649.png)
+
+### Gerenciamento de produtos
+![Produtos](Captura%20de%20tela%202026-11-10%20154221.png)
+
+### Pedidos e integração
+![Pedidos](Captura%20de%20tela%202026-11-10%20153806.png)
+
+### Dashboard de análise de dados
 ![Dashboard](dashboard_shop_analytics.png)
 
 12. Considerações finais
