@@ -112,7 +112,7 @@ Também é possível executar a aplicação diretamente no computador.
 
 Instale as dependências:
 
-pip install streamlit pymongo pandas matplotlib python-dotenv
+pip install -r requirements.txt
 
 Execute:
 
@@ -157,6 +157,10 @@ shopAnalytics/
 └── dashboard_shop_analytics.png
 
 O arquivo .env é utilizado localmente e não deve ser enviado ao GitHub.
+## Demonstração da aplicação
+## Dashboard de análise de dados
+
+![Dashboard](dashboard_shop_analytics.png)
 
 12. Considerações finais
 
