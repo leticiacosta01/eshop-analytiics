@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.__pycache__
+venv/
+.venv/
+MONGO_INITDB_ROOT_USERNAME=admin
+MONGO_INITDB_PASSWORD=shop123

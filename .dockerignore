@@ -1,0 +1,6 @@
+.env
+.git
+__pycavhe__
+*.__pycavhe__
+venv
+.venv
